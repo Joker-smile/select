@@ -10,7 +10,8 @@ git clone
 ``` <script src="js/jquery-1.11.3.min.js">
   </script>
   <script src="js/jquery.combo.select.js">
-  </script>```
+  </script>
+```
   
 添加所需的下拉框样式即可.
 
