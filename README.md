@@ -3,7 +3,10 @@
 
 #使用方法
 
+```
 git clone 
+
+```
 
 将jquery.combo.select.js 和jquery-1.11.3.min.js 引入到项目中
 
